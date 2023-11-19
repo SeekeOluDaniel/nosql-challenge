@@ -11,6 +11,7 @@ The purpose was to evaluate some of the ratings data (obtained from the UK Food 
 2. PyMongo
 3. Pandas
 4. Pretty Print
+5. Terminal
 
 
 ### Analysis
